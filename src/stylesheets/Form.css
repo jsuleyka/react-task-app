@@ -1,0 +1,27 @@
+.form-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.task-input {
+  background-color: white;
+  border-radius: 4px 0 0 4px;
+  border: 2px solid #00471b;
+  font-size: 18px;
+  outline: none;
+  padding: 14px 32px 14px 16px;
+  width: 400px;
+}
+
+.task-button {
+  background-color: #00471b;
+  border-radius: 0 4px 4px 0;
+  border: none;
+  color: white;
+  font-size: 18px;
+  outline: none;
+  padding: 16px;
+  text-transform: capitalize;
+}
