@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-task-app/static/css/main.27117ea7.css",
+    "main.js": "/react-task-app/static/js/main.05816452.js",
+    "static/media/fcc-logo.svg": "/react-task-app/static/media/fcc-logo.71c22fe37217d534eac79826ea9d66a7.svg",
+    "index.html": "/react-task-app/index.html",
+    "main.27117ea7.css.map": "/react-task-app/static/css/main.27117ea7.css.map",
+    "main.05816452.js.map": "/react-task-app/static/js/main.05816452.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27117ea7.css",
+    "static/js/main.05816452.js"
+  ]
+}
